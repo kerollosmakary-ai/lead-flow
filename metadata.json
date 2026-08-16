@@ -1,0 +1,6 @@
+{
+  "name": "Real Estate CRM",
+  "description": "Refined behavior analytics telemetry screen, name search matching, clean action spike analysis, and offline auto-logging workspace",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
